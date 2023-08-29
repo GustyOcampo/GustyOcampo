@@ -1,8 +1,10 @@
 ### Hi there 👋
 <div class="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczQ1ajgwNDQ3ODg2ZmZxN2I3cWJtcG10aTA0bjh1d3l3OGp4MHZoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
   <h3>Hola, Soy Ocampo Gustavo</h3>
+  <h4>Me gusta caminar, ver Formula 1.<br>Me gusta diseñar, programar.<br>Me adapto y aprendo rapido.</h4>
 </div>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZ0bHh0bWwyY3hncG5vbzBraHh4eXU1ZW5jenh1cGp1dGJvOWJzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" wit>
+
 
 
 <!--
