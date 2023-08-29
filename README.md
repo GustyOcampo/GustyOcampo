@@ -9,7 +9,7 @@
 -Me gusta caminar y hacer trekking.🚶‍♂️<br>
 -Ver FORMULA 1.🏎️<br>
 -Actualmente me encuentro estudiando.📚<br>
--Estoy realizando cursos de progrmación.📖<br>
+-Estoy realizando cursos de progrmación e diseño.📖<br>
 
 <!--
 **GustyOcampo/GustyOcampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
