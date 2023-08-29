@@ -19,6 +19,11 @@
   <img src="https://cdn.icon-icons.com/icons2/2098/PNG/512/figma_icon_128866.png" width="40">
   <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" width="40">
 </div>
+
+<div class="mystats" align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustyOcampo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 <!--
 **GustyOcampo/GustyOcampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
