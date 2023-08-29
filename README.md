@@ -1,8 +1,8 @@
 ### Hi there 👋
-<div class="header" aling="center">
-  
+<div class="header" align="center">
+  <h3>Hola, Soy Ocampo Gustavo</h3>
 </div>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZ0bHh0bWwyY3hncG5vbzBraHh4eXU1ZW5jenh1cGp1dGJvOWJzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZ0bHh0bWwyY3hncG5vbzBraHh4eXU1ZW5jenh1cGp1dGJvOWJzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" wit>
 
 
 <!--
