@@ -1,4 +1,9 @@
 ### Hi there 👋
+<div class="header" aling="center">
+  
+</div>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZ0bHh0bWwyY3hncG5vbzBraHh4eXU1ZW5jenh1cGp1dGJvOWJzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+
 
 <!--
 **GustyOcampo/GustyOcampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
