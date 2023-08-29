@@ -11,6 +11,14 @@
 -Actualmente me encuentro estudiando.📚<br>
 -Estoy realizando cursos de progrmación e diseño.📖<br>
 
+### TRABAJO CON...
+<div class="logo" align="center" justify-conteent = "space-around">
+  <img src="https://cdn.icon-icons.com/icons2/4037/PNG/512/python_brands_icon_256644.png" width="40">
+  <img src="https://cdn.icon-icons.com/icons2/4037/PNG/512/html_brands_icon_256597.png" width="40">
+  <img src="https://cdn.icon-icons.com/icons2/4037/PNG/512/basic_visual_brands_icon_256601.png" width="40">
+  <img src="https://cdn.icon-icons.com/icons2/2098/PNG/512/figma_icon_128866.png" width="40">
+  <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" width="40">
+</div>
 <!--
 **GustyOcampo/GustyOcampo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
