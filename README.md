@@ -14,7 +14,7 @@
 
 - 🏎️ Ver FORMULA 1 **(Para estresarme nomas)**
 
-- 📚 Realizo cursos de progracmación **JavaScript**
+- 📚 Realizo cursos de programación **JavaScript, C++, Python, ETC**
 
 - 🚶‍♂️ Me gusta caminar y hacer trekking **(Tomar aire fresco)**
 
@@ -22,6 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/no me acuerdo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="no me acuerdo" height="30" width="40" /></a>
 <a href="https://fb.com/gustavo ocampo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gustavo ocampo" height="30" width="40" /></a>
 <a href="https://instagram.com/gusty.ocampo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gusty.ocampo" height="30" width="40" /></a>
 </p>
